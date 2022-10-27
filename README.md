@@ -58,7 +58,16 @@ To link our Jenkins to the webhook of our repos:
 
 7. Create and launch Pipeline static-webapp
 
-- Create: new item -> name 
+- Create:***New item*** 
+
+![](https://lh5.googleusercontent.com/VGA-tbQbEvIIde0kvwhHufDyHisp68ARDwMssen6fYUQ8zN5e0oGGY6He85F2Ew0iSpiAmagNqlxpPxD9EozFkZcdExcCy8ZTMRqIXbu6H9_rAD0y_7tOGApP3HOzRW4fNp3qJ_PtPgywFsrjHqDW6skRU-rxD6TiJ3Wgd96Ocz6jwD4AeUrHK_JZw)
+
+![](https://lh5.googleusercontent.com/ASA-MlEF35XAHPJEWkYeCNxBJyyNrjDM3OT1JIoF6y1zLNdRQNgtvL_nX36tkhqa9gyPieMUQjJaUP8U7PZhJVz_lG-ZhDM1Gdfb7MKB-l5yVOm57k3OrqZHZ3LpiVu_YLrVDfH9cLqYLrNl7mtM-KzjbxBXEu1P35fwlAdAazxIqtmyrHiVDU2IbQ)
+
+![](https://lh6.googleusercontent.com/iO287dqzH5xN9EfaRz6tdAu44_ohZssecW2ffW0CR7HHfxqwQLxFNapWjmhmhaUwbxGWgv1MSTs9mdmIVcq-mQcCevm0EW4xksTaN7SfGOCluApmlFQfeMJ35qRbVWSzNnmGSiDyAS64Ff8Bdriy-6HlRqIuJRKIZcQZUq09jcPJsT3zyURG33cOmg)
+
+- Launch: ***Build Now***
+
 ![](https://lh4.googleusercontent.com/4_0-KIzsIfT2obLUwz5gj-PNQ9S1XX7jsrJvVRGy7KrcOmXw5iSDHd0MuI_xsxpVYsWU4acWSlcEuNJRvbFNI4_3HkgTZV48u4LzhLCe3-Bhb4BkhKjarzgcUwn1VBTVuUqAImXIAX_amtK-cJ6FbsgGX1aTwRG0fX0KMUQnNvALdIZPwq7XPUpu4w)
 
 ![](https://lh6.googleusercontent.com/ABeT-o-HlIGx37MV5DF7fkuMu3OOOFJ8Jxyoi4_NyZvmFg721l2uur8IU4PCBHxGpn60kaqhGrW9M7s6w2ilEGit9zh6XucIlMGe1jpPFhLlPHYEKe6chRHzcokjUGT-SmvEXLvv9j4OjRI22JkuB-yAK7SAhywRQdiAmfzYqBURY624WRJ_CXLBDA)
