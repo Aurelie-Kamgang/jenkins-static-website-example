@@ -66,9 +66,28 @@ To link our Jenkins to the webhook of our repos:
 
 ![](https://lh6.googleusercontent.com/iO287dqzH5xN9EfaRz6tdAu44_ohZssecW2ffW0CR7HHfxqwQLxFNapWjmhmhaUwbxGWgv1MSTs9mdmIVcq-mQcCevm0EW4xksTaN7SfGOCluApmlFQfeMJ35qRbVWSzNnmGSiDyAS64Ff8Bdriy-6HlRqIuJRKIZcQZUq09jcPJsT3zyURG33cOmg)
 
-- Launch: ***Build Now***
-
 ![](https://lh4.googleusercontent.com/4_0-KIzsIfT2obLUwz5gj-PNQ9S1XX7jsrJvVRGy7KrcOmXw5iSDHd0MuI_xsxpVYsWU4acWSlcEuNJRvbFNI4_3HkgTZV48u4LzhLCe3-Bhb4BkhKjarzgcUwn1VBTVuUqAImXIAX_amtK-cJ6FbsgGX1aTwRG0fX0KMUQnNvALdIZPwq7XPUpu4w)
+
+- ***Save***
+
+- Launch: ***Build Now***
 
 ![](https://lh6.googleusercontent.com/ABeT-o-HlIGx37MV5DF7fkuMu3OOOFJ8Jxyoi4_NyZvmFg721l2uur8IU4PCBHxGpn60kaqhGrW9M7s6w2ilEGit9zh6XucIlMGe1jpPFhLlPHYEKe6chRHzcokjUGT-SmvEXLvv9j4OjRI22JkuB-yAK7SAhywRQdiAmfzYqBURY624WRJ_CXLBDA)
 
+8. Test
+
+- Go to heroku and view our application
+
+![](https://lh4.googleusercontent.com/E0BHpKckeRlqiIt51Gn9v1cBJsShie-Uc7PIJSHfKQ2W1L1Sy7YKvXHq4-rEkV5gK_DPBaHwiGbHaNuWCZEq_Zyq5KF3XrnFA07PV-s_BljCWWgQA-uhwAkmfEPZBpj7ASlqY76XRmuq1avGTYj2jVs8iVsHfrw1pG2qEeRM8Xt_fzpQYgkUYLRj_w)
+
+- Open the application in staging environment
+
+![](https://lh3.googleusercontent.com/Y5nsnj1mke7zmsodIkAuno9KhFmCb6_FzNI6tqzGik480PB9lIGRJkIDuGVC9ikWJbyCd-6Af1rjsbExmQJxgFvC-oDoyvYkQopPr50IDbZj9-K3K2jPlB-Gg6fCBVjLUTmPJqk_iAdKUDoz-E6o0_-uUIsKQJNnCXYarJai86NrAvkZTVYZxTzyOQ)
+
+- Open the application in production environment
+
+![](https://lh5.googleusercontent.com/eGGfIPOFIRW1iyrsFA3ur8Ve5ayCLtDrpBXqHuSLIVLxp7AgghFDpCGvCiUOOBvr2otyiclO0st_VXISQpxIzo3S0mv0qJt5DV-1wBi6P8m8BOrRgRigmtuClpMTDcLrRAtYNzo2UcvrOnUbjK5Z0rEZWGlAxzjGveZMuVVenGpyRfc7OYgkoGkl2Q)
+
+- Go to our Slack messaging application to see the notifications
+
+![](https://lh3.googleusercontent.com/8x3KDLVmcnB7hQNXVsejtK8VLCZsR4QAvqJ2C_Hj1ChkSqA13kcyGxjKgGMIVqWb0sdByzKDHRV9XrXqwubOk0tpiCB8hSJbPHH8qasAuSR9R2MTz-zX6cY0hYA8-9UDnRnmiBbwDsp0otaNjstvhlVIFQ6cfoWU8yhYHGMb02XEh7ryRrogitSvgg)
