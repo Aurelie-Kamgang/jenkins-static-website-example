@@ -82,11 +82,11 @@ To link our Jenkins to the webhook of our repos:
 
 - Open the application in staging environment
 
-![](https://lh3.googleusercontent.com/Y5nsnj1mke7zmsodIkAuno9KhFmCb6_FzNI6tqzGik480PB9lIGRJkIDuGVC9ikWJbyCd-6Af1rjsbExmQJxgFvC-oDoyvYkQopPr50IDbZj9-K3K2jPlB-Gg6fCBVjLUTmPJqk_iAdKUDoz-E6o0_-uUIsKQJNnCXYarJai86NrAvkZTVYZxTzyOQ)
+![](https://lh5.googleusercontent.com/eGGfIPOFIRW1iyrsFA3ur8Ve5ayCLtDrpBXqHuSLIVLxp7AgghFDpCGvCiUOOBvr2otyiclO0st_VXISQpxIzo3S0mv0qJt5DV-1wBi6P8m8BOrRgRigmtuClpMTDcLrRAtYNzo2UcvrOnUbjK5Z0rEZWGlAxzjGveZMuVVenGpyRfc7OYgkoGkl2Q)
 
 - Open the application in production environment
 
-![](https://lh5.googleusercontent.com/eGGfIPOFIRW1iyrsFA3ur8Ve5ayCLtDrpBXqHuSLIVLxp7AgghFDpCGvCiUOOBvr2otyiclO0st_VXISQpxIzo3S0mv0qJt5DV-1wBi6P8m8BOrRgRigmtuClpMTDcLrRAtYNzo2UcvrOnUbjK5Z0rEZWGlAxzjGveZMuVVenGpyRfc7OYgkoGkl2Q)
+![](https://lh3.googleusercontent.com/Y5nsnj1mke7zmsodIkAuno9KhFmCb6_FzNI6tqzGik480PB9lIGRJkIDuGVC9ikWJbyCd-6Af1rjsbExmQJxgFvC-oDoyvYkQopPr50IDbZj9-K3K2jPlB-Gg6fCBVjLUTmPJqk_iAdKUDoz-E6o0_-uUIsKQJNnCXYarJai86NrAvkZTVYZxTzyOQ)
 
 - Go to our Slack messaging application to see the notifications
 
